@@ -1,0 +1,107 @@
+[
+	{
+		"title": "VigilantCitizen",
+		"language" : "en",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["vigilantcitizen.com"]
+	},
+	{
+		"title": "Zvedavec",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["zvedavec.org"]
+	},
+	{
+		"title": "Protiprudu",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["protiprudu.org"]
+	},
+	{
+		"title": "OrgoNet",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["orgo-net.blogspot.sk"]
+	},
+	{
+		"title": "Aeronet",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["aeronet.cz"]
+	},
+	{
+		"title": "Conspi",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["conspi.cz"]
+	},
+	{
+		"title": "NewWorldOrderOpposition",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nwoo.org"]
+	},
+	{
+		"title": "Exopolitika",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["exopolitika.cz"]
+	},
+	{
+		"title": "Badatel",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["badatel.net"]
+	},
+	{
+		"title": "CeskeNezavisleZpravodajstvi",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["czechfreepress.cz"]
+	},
+	{
+		"title": "StratenaEuropa",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["stratenaeuropa.sk"]
+	},
+	{
+		"title": "BraveNewWorldOrder",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bnw-nwo.wz.cz"]
+	},
+	{
+		"title": "Protiprud",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["protiprud.sk"]
+	},
+	{
+		"title": "Protiproud",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["protiproud.cz"]
+	},
+	{
+		"title": "ZemaVek",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["zemavek.sk"]
+	}
+]
