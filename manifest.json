@@ -1,14 +1,39 @@
 {
   "manifest_version": 2,
   "name": "Antivytrus.sk",
-  "version": "1.0",
+  "version": "1.2",
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": [
+        "*://*.fejsbuk.com/*",
+        "*://*.dennikn.sk/*",
+        "*://*.vigilantcitizen.com/*",
+        "*://*.zvedavec.org/*",
+        "*://*.protiprudu.org/*",
+        "*://*.orgo-net.blogspot.sk/*",
+        "*://*.aeronet.cz/*",
+        "*://*.conspi.cz/*",
+        "*://*.nwoo.org/*",
+        "*://*.exopolitika.cz/*",
+        "*://*.badatel.net/*",
+        "*://*.czechfreepress.cz/*",
+        "*://*.stratenaeuropa.sk/*",
+        "*://*.bnw-nwo.wz.cz/*",
+        "*://*.protiprud.sk/*",
+        "*://*.protiproud.cz/*",
+        "*://*.zemavek.sk/*",
+        "*://*.facebook.com/*"
+      ],
       "js": ["content.js"]
     }
   ],
   "browser_action": {
     "default_icon": "icon.png"
-  }
+  },
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png" 
+  },
+  "short_name": "Chráň seba a svojich blízkych pred dezinformáciámi"
 }
