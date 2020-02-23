@@ -1,6 +1,6 @@
 const list = [
 	{
-		"title": "vigilantcitizen",
+		"title": "The Vigilant Citizen",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -8,14 +8,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/realvigilantcitizen"]
 	},
 	{
-		"title": "zvedavec",
+		"title": "Zvedavec",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["zvedavec.org"]
 	},
 	{
-		"title": "protiprudu",
+		"title": "Proti prúdu",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -23,7 +23,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/podcastprotiproudu"]
 	},
 	{
-		"title": "orgo-net",
+		"title": "OrgoNet",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -31,7 +31,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Orgo-Net-na-FB-232171370242412"]
 	},
 	{
-		"title": "aeronet",
+		"title": "Aeronet",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -39,7 +39,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/aeronet.cz"]
 	},
 	{
-		"title": "conspi",
+		"title": "Conspi",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -47,7 +47,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/conspicz"]
 	},
 	{
-		"title": "nwoo",
+		"title": "Nwoo",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -55,7 +55,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/groups/344917118941679"]
 	},
 	{
-		"title": "exopolitika",
+		"title": "Exopolitika",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -63,7 +63,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Exopolitika-377359218568"]
 	},
 	{
-		"title": "badatel",
+		"title": "Bádateľ",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -71,7 +71,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/B%C3%A1date%C4%BEnet-538138222998497"]
 	},
 	{
-		"title": "czechfreepress",
+		"title": "Czech Free Press",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -79,28 +79,28 @@ const list = [
 		"facebook": ["https://www.facebook.com/czechfreepress"]
 	},
 	{
-		"title": "stratenaeuropa",
+		"title": "Stratená Európa",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["stratenaeuropa.sk"]
 	},
 	{
-		"title": "bnw-nwo",
+		"title": "Bnw-Nwo",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["bnw-nwo.wz.cz"]
 	},
 	{
-		"title": "protiprud",
+		"title": "Protiprúd",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["protiprud.sk"]
 	},
 	{
-		"title": "protiproud",
+		"title": "Protiproud",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -108,7 +108,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/protiproud.cz"]
 	},
 	{
-		"title": "zemavek",
+		"title": "Zem a Vek",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -116,7 +116,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/ZEMAVEK"]
 	},
 	{
-		"title": "blokprotiislamizaci",
+		"title": "Blok proti islamizaci",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "podobne stranky pre kraje v cesku",
@@ -124,7 +124,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/BPiLiberecko"]
 	},
 	{
-		"title": "afinabul",
+		"title": "Afinabul",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -132,14 +132,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/Afinabulblogcz"]
 	},
 	{
-		"title": "prvopodstata",
+		"title": "Prvopodstata",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["prvopodstata.com"]
 	},
 	{
-		"title": "stalo-se",
+		"title": "Stalo se",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -147,7 +147,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Stalo-se-271169370078843"]
 	},
 	{
-		"title": "slobodavockovani",
+		"title": "Sloboda v očkovaní",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -155,7 +155,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/sloboda.v.ockovani"]
 	},
 	{
-		"title": "magnificat",
+		"title": "Magnificat",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -163,14 +163,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/magnificatmag"]
 	},
 	{
-		"title": "nekorektni-tv",
+		"title": "Nekorektni-Tv",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["nekorektni-tv.cz"]
 	},
 	{
-		"title": "veksvetla",
+		"title": "Vek Svetla",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -178,7 +178,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/V%C4%9Bk-Sv%C4%9Btla-1781861465420457"]
 	},
 	{
-		"title": "sho",
+		"title": "Slovenské hnutie obrody",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -186,7 +186,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/shoreusable"]
 	},
 	{
-		"title": "nadhlad",
+		"title": "Nadhľad",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -194,21 +194,21 @@ const list = [
 		"facebook": ["https://www.facebook.com/nadhlad.ponad.protiklady"]
 	},
 	{
-		"title": "pravdive",
+		"title": "Pravdive.eu",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["pravdive.eu"]
 	},
 	{
-		"title": "bezpolitickekorektnosti",
+		"title": "Bez politické korektnosti",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["bezpolitickekorektnosti.cz"]
 	},
 	{
-		"title": "freeglobe",
+		"title": "Free Globe",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -216,7 +216,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/freeGlobecz-nov%C3%BD-sv%C4%9Btov%C3%BD-%C5%99%C3%A1d-135133549861997"]
 	},
 	{
-		"title": "svobodnenoviny",
+		"title": "Svobodné noviny",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -224,7 +224,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/svobodnenovinyeu-240233692807752"]
 	},
 	{
-		"title": "vedomec",
+		"title": "Vedomec",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -232,7 +232,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/citajteVedomec"]
 	},
 	{
-		"title": "anti-illuminati",
+		"title": "Anti-illuminati",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -240,7 +240,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/anti-illuminati-207614131984"]
 	},
 	{
-		"title": "leva-net",
+		"title": "Leva-net",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -248,14 +248,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/LevaNet-794919137331164"]
 	},
 	{
-		"title": "vlasteneckenoviny",
+		"title": "Vlastenecké noviny",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["vlasteneckenoviny.cz"]
 	},
 	{
-		"title": "novarepublika",
+		"title": "Nová republika",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -263,7 +263,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/stop259"]
 	},
 	{
-		"title": "rukojmi",
+		"title": "Rukojmí.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -271,7 +271,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/rukojmi.cz"]
 	},
 	{
-		"title": "rozhladna",
+		"title": "Rozhľadňa",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -279,7 +279,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Rozh%C4%BEad%C5%88a-635512843478173"]
 	},
 	{
-		"title": "yournewswire",
+		"title": "Your news wire",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -287,7 +287,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/yournewswire"]
 	},
 	{
-		"title": "obcianskytribunal",
+		"title": "Občiansky tribunál",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -295,7 +295,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/groups/povstalci"]
 	},
 	{
-		"title": "idemvolit",
+		"title": "Idem voliť",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -303,7 +303,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/idemvolitsk"]
 	},
 	{
-		"title": "tadesco",
+		"title": "Tadesco.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -311,7 +311,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/tadesco.org"]
 	},
 	{
-		"title": "eurasia24",
+		"title": "Eurasia24",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -319,7 +319,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Eurasia24-445786142269165"]
 	},
 	{
-		"title": "nemesis",
+		"title": "Nemesis",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -327,7 +327,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/nemesisbd"]
 	},
 	{
-		"title": "euronoviny",
+		"title": "Euronoviny",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -335,7 +335,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Euronovinyeu-136701907009141"]
 	},
 	{
-		"title": "zahadnysvet",
+		"title": "Záhadný svet",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "viac fb stranok",
@@ -343,7 +343,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/ZahadnySvetsk-941539595978322"]
 	},
 	{
-		"title": "slobodnyvysielac",
+		"title": "Slobodný vysielač",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "viac fb stranok",
@@ -351,28 +351,28 @@ const list = [
 		"facebook": ["Slobodný vysiela_"]
 	},
 	{
-		"title": "dobajedu",
+		"title": "Doba jedu",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["dobajedu.cz"]
 	},
 	{
-		"title": "tartaria",
+		"title": "Tartaria",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["tartaria.sk"]
 	},
 	{
-		"title": "energieupramene",
+		"title": "Energie u pramene",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["energieupramene.blogspot.sk"]
 	},
 	{
-		"title": "magazin1",
+		"title": "Magazin1.sk",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -380,7 +380,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/magazin1.sk"]
 	},
 	{
-		"title": "ac24",
+		"title": "Ac24.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -388,7 +388,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/AC24.cz"]
 	},
 	{
-		"title": "alternativnimagazin",
+		"title": "Alternativní magazín",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -396,14 +396,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/AlternativniMagazin"]
 	},
 	{
-		"title": "isstras",
+		"title": "Isstras.eu",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["isstras.eu"]
 	},
 	{
-		"title": "infokuryr",
+		"title": "Infokurýr",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -411,7 +411,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/infokuryr"]
 	},
 	{
-		"title": "picuscapital",
+		"title": "Picus Capital",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -419,7 +419,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/picuscapital"]
 	},
 	{
-		"title": "suenee",
+		"title": "Suenee.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -427,7 +427,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/SueneeUniverse"]
 	},
 	{
-		"title": "megazine",
+		"title": "Megazine",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -435,21 +435,21 @@ const list = [
 		"facebook": ["https://www.facebook.com/megazinepoa"]
 	},
 	{
-		"title": "je-to-inak",
+		"title": "Je-to-inak",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["je-to-inak.livejournal.com"]
 	},
 	{
-		"title": "naturalnews",
+		"title": "Natural News",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["naturalnews.com"]
 	},
 	{
-		"title": "necenzurovane",
+		"title": "Necenzúrovane",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -457,7 +457,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Necenzurovane.sk"]
 	},
 	{
-		"title": "priznakytransformace",
+		"title": "Příznaky transformace",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -465,7 +465,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/PRIZNAKYTRANSFORMACE"]
 	},
 	{
-		"title": "nadlani",
+		"title": "Na dlani",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -473,14 +473,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/nadlani.org"]
 	},
 	{
-		"title": "mysteria",
+		"title": "Mysteria",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["mysteria.cz"]
 	},
 	{
-		"title": "freedomeurope",
+		"title": "Freedom Europe",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "nefunkcny web",
@@ -488,7 +488,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/europefreedom"]
 	},
 	{
-		"title": "lifenews",
+		"title": "Life News",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -496,7 +496,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/LifeNewsSK"]
 	},
 	{
-		"title": "eurabia",
+		"title": "Eurabia",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -504,7 +504,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/eurabia.cz"]
 	},
 	{
-		"title": "euportal",
+		"title": "Euportál",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -512,7 +512,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/eportal.cz"]
 	},
 	{
-		"title": "euserver",
+		"title": "Euserver",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -520,7 +520,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/euserver.cz"]
 	},
 	{
-		"title": "proevropu",
+		"title": "Pro Evropu",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -528,7 +528,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/proevropu"]
 	},
 	{
-		"title": "cestyksobe",
+		"title": "Cesty k sobě",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -536,7 +536,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/cestyksobe"]
 	},
 	{
-		"title": "ceskoaktualne",
+		"title": "Česko aktuálně",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -544,7 +544,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/ceskoaktualne"]
 	},
 	{
-		"title": "pravyprostor",
+		"title": "Pravý prostor",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -552,7 +552,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/pravyprostor.cz"]
 	},
 	{
-		"title": "kulturblog",
+		"title": "Kulturblog",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -560,28 +560,28 @@ const list = [
 		"facebook": ["https://www.facebook.com/kulturblog.sk"]
 	},
 	{
-		"title": "karolinaloskotova",
+		"title": "Karolinaloskotova.blog.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["karolinaloskotova.blog.cz"]
 	},
 	{
-		"title": "osud",
+		"title": "Osud",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "nefunguje web",
 		"domains": ["osud.cz"]
 	},
 	{
-		"title": "ers",
+		"title": "Ers",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["ers.blog.cz"]
 	},
 	{
-		"title": "infovojna",
+		"title": "Infovojna",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -589,14 +589,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/Infovojna"]
 	},
 	{
-		"title": "rudovasky",
+		"title": "Rudolf Vaský",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["rudovasky.com"]
 	},
 	{
-		"title": "tydenikobcanskepravo",
+		"title": "Týdeník občanské právo",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -604,7 +604,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/toptydenik"]
 	},
 	{
-		"title": "procproto",
+		"title": "Proč proto",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -612,14 +612,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/procproto"]
 	},
 	{
-		"title": "bajecnezeny",
+		"title": "Báječné ženy",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["bajecnezeny.sk"]
 	},
 	{
-		"title": "casopis-sifra",
+		"title": "Časopis Šifra",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -627,7 +627,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/SifraCasopis"]
 	},
 	{
-		"title": "svetkolemnas",
+		"title": "Svět kolem nás",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -635,7 +635,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/svetkolemnas1"]
 	},
 	{
-		"title": "freepub",
+		"title": "Free Pub",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -643,14 +643,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/FreePub.cz"]
 	},
 	{
-		"title": "dt24",
+		"title": "Dt24.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["dt24.cz"]
 	},
 	{
-		"title": "radyzdravie",
+		"title": "Rady zdravie",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -658,7 +658,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/radyzdravie"]
 	},
 	{
-		"title": "skrytapravda",
+		"title": "Skrytá pravda",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -666,7 +666,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/skrytapravda"]
 	},
 	{
-		"title": "priezor",
+		"title": "Priezor",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -674,7 +674,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Priezor"]
 	},
 	{
-		"title": "panobcan",
+		"title": "Pán občan",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -682,7 +682,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/panobcan.sk"]
 	},
 	{
-		"title": "slobodnyvyber",
+		"title": "Slobodný výber",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -690,7 +690,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/slobodnyvyber"]
 	},
 	{
-		"title": "silavedomia",
+		"title": "Sila vedomia",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -698,7 +698,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Sila-vedomia-1751679901760595"]
 	},
 	{
-		"title": "stopislam",
+		"title": "Stop islám",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -706,14 +706,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/groups/437165113080215"]
 	},
 	{
-		"title": "nazorobcana",
+		"title": "Názor občana",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["nazorobcana.sk"]
 	},
 	{
-		"title": "sputniknews",
+		"title": "Sputnik News",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -721,7 +721,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/sputniknews.sk"]
 	},
 	{
-		"title": "southfront",
+		"title": "South Front",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -729,7 +729,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/SouthFrontEnTwo"]
 	},
 	{
-		"title": "nejvic-info",
+		"title": "Nejvíc-info.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -737,7 +737,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Nejvicinfo"]
 	},
 	{
-		"title": "euroasie",
+		"title": "Euroasie",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -745,7 +745,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/EuroAsie.Info"]
 	},
 	{
-		"title": "wmmagazin",
+		"title": "Wmmagazin",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -753,7 +753,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/wmmagazin.cz"]
 	},
 	{
-		"title": "wertyzreport",
+		"title": "Wertyzreport.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -761,7 +761,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/WertyzReport"]
 	},
 	{
-		"title": "e-republika",
+		"title": "E-republika",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -769,7 +769,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/eRepublika.cz"]
 	},
 	{
-		"title": "cestacloveka",
+		"title": "Cesta človeka",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -777,7 +777,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/CestaCloveka"]
 	},
 	{
-		"title": "mcaris",
+		"title": "Mcaris",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -785,7 +785,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/tomas.brezina.feft"]
 	},
 	{
-		"title": "paratdnes",
+		"title": "Pařát dnes",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -793,21 +793,21 @@ const list = [
 		"facebook": ["https://www.facebook.com/skrytapravdaparatdnes"]
 	},
 	{
-		"title": "venuska",
+		"title": "Venuška",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "nefunkcny web",
 		"domains": ["venuska.cz"]
 	},
 	{
-		"title": "biosferaklub",
+		"title": "Biosféra klub",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["biosferaklub.info"]
 	},
 	{
-		"title": "medzicas",
+		"title": "Medzičas",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -815,7 +815,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/medzicas"]
 	},
 	{
-		"title": "gloria",
+		"title": "Gloria",
 		"language" : "gr",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -823,7 +823,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/GottesGloriaTV"]
 	},
 	{
-		"title": "otvoroci",
+		"title": "Otvor oči",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -831,7 +831,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Otvoro%C4%8Di-251692861652727"]
 	},
 	{
-		"title": "extraplus",
+		"title": "Extraplus",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -839,7 +839,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/extraplus.sk"]
 	},
 	{
-		"title": "lajkit",
+		"title": "Lajkit.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -847,7 +847,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/lajkit.cz"]
 	},
 	{
-		"title": "bajecnezdravie",
+		"title": "Báječné zdravie",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -855,14 +855,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/bajecnezdravie"]
 	},
 	{
-		"title": "radyprezdravie",
+		"title": "Rady pre zdravie",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "nefunkcny web",
 		"domains": ["radyprezdravie.sk"]
 	},
 	{
-		"title": "radyprezeny",
+		"title": "Rady pre ženy",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -870,7 +870,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Rady-pre-%C5%BDENY-1596351360689861"]
 	},
 	{
-		"title": "mocvedomi",
+		"title": "Moc vědomí",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -878,7 +878,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Moc-v%C4%9Bdom%C3%AD-333103003725172"]
 	},
 	{
-		"title": "datel",
+		"title": "Ďateľ",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -886,7 +886,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/datel.sk"]
 	},
 	{
-		"title": "breitbart",
+		"title": "Breitbart",
 		"language" : "gr",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -894,21 +894,21 @@ const list = [
 		"facebook": ["https://www.facebook.com/Breitbart"]
 	},
 	{
-		"title": "drsne",
+		"title": "Drsne",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["drsne.sk"]
 	},
 	{
-		"title": "slovenskeslovo",
+		"title": "Slovenské slovo",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["slovenskeslovo.sk"]
 	},
 	{
-		"title": "domacaliecba",
+		"title": "Domáca liečba",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -916,7 +916,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Dom%C3%A1ca-lie%C4%8Dba-1555211248131311"]
 	},
 	{
-		"title": "themindunleashed",
+		"title": "The Mind Unleashed",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -924,7 +924,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/TheMindUnleashed"]
 	},
 	{
-		"title": "hlavnespravy",
+		"title": "Hlavné správy",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -932,7 +932,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/www.hlavnespravy.sk"]
 	},
 	{
-		"title": "narodninoviny",
+		"title": "Národní noviny",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -940,7 +940,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/narodninoviny.cz"]
 	},
 	{
-		"title": "fresher",
+		"title": "Fresher",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -948,7 +948,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Freshersk-368489026937740"]
 	},
 	{
-		"title": "radynadzlato",
+		"title": "Rady nad zlato",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -956,7 +956,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/radynadzlato"]
 	},
 	{
-		"title": "outsidermedia",
+		"title": "Outsider media",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -964,14 +964,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/OutsiderMedia-679074085513244"]
 	},
 	{
-		"title": "arindrexler",
+		"title": "Arin Drexler",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["arindrexler.com"]
 	},
 	{
-		"title": "lukasperny",
+		"title": "Lukáš Perný",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -979,7 +979,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Lucas-Perny-212562708781059"]
 	},
 	{
-		"title": "ceskozdrave",
+		"title": "ČeskoZdravě.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -987,7 +987,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/ceskozdrave"]
 	},
 	{
-		"title": "eportal",
+		"title": "Eportál",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -995,7 +995,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/eportal.cz"]
 	},
 	{
-		"title": "dolezite",
+		"title": "Dôležité.sk",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1003,7 +1003,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/dolezite.sk"]
 	},
 	{
-		"title": "napalete",
+		"title": "Na palete",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1011,7 +1011,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/napalete.sk"]
 	},
 	{
-		"title": "vylectese",
+		"title": "VyléčteSe.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1019,7 +1019,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Vylectesecz-1729514577374304"]
 	},
 	{
-		"title": "bajecnylekar",
+		"title": "Báječný lekár",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1027,7 +1027,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/bajecnylekar"]
 	},
 	{
-		"title": "jenona",
+		"title": "Tiscali.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1035,7 +1035,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/tiscali.cz"]
 	},
 	{
-		"title": "zpravodaj24",
+		"title": "Zpravodaj24.eu",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1043,7 +1043,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/zpravodaj24cz"]
 	},
 	{
-		"title": "woman",
+		"title": "Woman.tiscali.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1051,7 +1051,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/tiscali.cz"]
 	},
 	{
-		"title": "ipribeh",
+		"title": "iPříběh.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1059,28 +1059,28 @@ const list = [
 		"facebook": ["https://www.facebook.com/ipribeh"]
 	},
 	{
-		"title": "slovakexportregister",
+		"title": "Slovak Export Register",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "nefukncny web",
 		"domains": ["slovakexportregister.eu"]
 	},
 	{
-		"title": "ozonyx",
+		"title": "Ozonyx",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["ozonyx.cz"]
 	},
 	{
-		"title": "weeks",
+		"title": "Weeks.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["weeks.cz"]
 	},
 	{
-		"title": "prvnizpravy",
+		"title": "První zprávy",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1088,7 +1088,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/prvnizpravy.cz"]
 	},
 	{
-		"title": "davdva",
+		"title": "Dav Dva",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1096,7 +1096,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/magazindavdva"]
 	},
 	{
-		"title": "resso",
+		"title": "Resso",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1104,7 +1104,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/resso.sk"]
 	},
 	{
-		"title": "vitalitis",
+		"title": "Vitalitis",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1112,7 +1112,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/vitalitis.cz"]
 	},
 	{
-		"title": "stredoevropan",
+		"title": "Středoevropan",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1120,14 +1120,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/stredoevropan"]
 	},
 	{
-		"title": "medicalcentrum",
+		"title": "Medical Centrum",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["medicalcentrum.eu"]
 	},
 	{
-		"title": "withform",
+		"title": "WithForm.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1135,7 +1135,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/withform"]
 	},
 	{
-		"title": "trendweb",
+		"title": "Trendweb.sk",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1143,7 +1143,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/trendweb.sk"]
 	},
 	{
-		"title": "precitaj",
+		"title": "Prečítaj.si",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1151,7 +1151,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/precitajsi"]
 	},
 	{
-		"title": "babickinerady",
+		"title": "Babičkine rady",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1159,7 +1159,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Babi%C4%8Dky-n%C3%A1m-radia-565568617185873"]
 	},
 	{
-		"title": "svobodnymonitor",
+		"title": "Svobodný monitor",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1167,7 +1167,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/svobodnyzpravodaj"]
 	},
 	{
-		"title": "bajecnylekar",
+		"title": "Báječný lekář",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1175,14 +1175,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/B%C3%A1je%C4%8Dn%C3%BD-l%C3%A9ka%C5%99-1904503426440012"]
 	},
 	{
-		"title": "parlamentne-volby-2016",
+		"title": "Parlamentné-voľby-2016",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["parlamentne-volby-2016.sk"]
 	},
 	{
-		"title": "farmazdravi",
+		"title": "Farma zdraví",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1190,14 +1190,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/farmazdravi"]
 	},
 	{
-		"title": "zlapanda",
+		"title": "Zlá panda",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["zlapanda.cz"]
 	},
 	{
-		"title": "eurodenik",
+		"title": "Eurodeník.cz",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1205,14 +1205,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/eurodenik"]
 	},
 	{
-		"title": "onlineslecna",
+		"title": "OnlineSlečna.cz",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "nefunkcny web",
 		"domains": ["onlineslecna.cz"]
 	},
 	{
-		"title": "hlavnydennik",
+		"title": "Hlavný denník",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1220,7 +1220,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/hlavnydenniksk"]
 	},
 	{
-		"title": "bajecnyzivot",
+		"title": "Báječný život",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1228,7 +1228,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/bajecnyzivot"]
 	},
 	{
-		"title": "dennikpolitika",
+		"title": "Denník politika",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1236,7 +1236,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/dennikpolitika"]
 	},
 	{
-		"title": "prosvet",
+		"title": "Pro svět",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -1244,7 +1244,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/ProSvet.cz"]
 	},
 	{
-		"title": "halonoviny",
+		"title": "Haló noviny",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "nefunkcny web",
@@ -1280,10 +1280,20 @@ function getWebsiteElement(blockObject) {
 	const div = document.createElement('div')
 	div.style="z-index: 16777271 !important;font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;position:fixed;background-color:#d70022;left:0;top:0;width: 100%;height:100%;color:white;padding: 3rem;"
 	
+	const img = document.createElement('img')
+	img.style = "width:48px;height:48px;"
+	img.src = "https://api.antivytrus.sk/warning.png"
+	div.append(img)
+
 	const header = document.createElement('h1')
 	header.style = "color:white;font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 33px; font-weight: 300;"
-	header.innerText = 'Pozor! Stránka '+blockObject.title+' bola označená ako nebezpečná.'
+	header.innerText = 'Pozor! Stránka '+blockObject.title+' bola označená ako potenciálne nebezpečná.'
 	div.append(header)
+
+	const span = document.createElement('span')
+	span.style = "color:white;font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 22px; font-weight: 200;"
+	span.append("Pre vašu bezpečnosť vám neodporúčame na ňu pokračovať.")
+	div.append(span)
 	
 	div.append(document.createElement('br'))
 	div.append(document.createElement('br'))
@@ -1310,15 +1320,19 @@ function getWebsiteElement(blockObject) {
 
 	const paragraf = document.createElement('p')
 	paragraf.style = "font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;display:none;font-size: 18px;max-width: 800px;"
-	paragraf.append('Stránka '+blockObject.title+' bola označená ako nevhodná a pre vašu bezpečnosť na ňu neodporúčame pokračovať.')
-	paragraf.append(' Táto stránka môže obsahovať konšpirátorský obsah, ktorý sa nezakladá na pravde.')
 	paragraf.append(document.createElement('br'))
-	paragraf.append('Podrobnosti o stránke '+blockObject.title+' nájdete na stránke nášho projektu: ')
+	paragraf.append('Táto stránka môže obsahovať konšpiračný obsah, ktorý sa nezakladá na pravde, systematicky zavádza, vyzýva k násiliu alebo nerešpektuje základné zásady novinárskej etiky.')
+	paragraf.append(document.createElement('br'))
+	paragraf.append(document.createElement('br'))
+	paragraf.append('Podrobnosti nájdete na stránke nášho projektu: ')
 	linkHref = document.createElement('a')
 	linkHref.style = "font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;color:white;text-decoration: underline;"
 	linkHref.href = 'https://antivytrus.sk'
 	linkHref.innerText = 'antivytrus.sk'
 	paragraf.append(linkHref)
+	paragraf.append(document.createElement('br'))
+	paragraf.append(document.createElement('br'))
+	paragraf.append('Napriek tomu, že táto stránka bola označená ako nebezpečná kvôli jej konšpiračnému charakteru, niektoré informácie zverejnené na tejto stránke môžu byť pravdivé.')
 	paragraf.append(document.createElement('br'))
 	paragraf.append(document.createElement('br'))
 	const continueHref = document.createElement('a')
@@ -1381,7 +1395,6 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	warning.style.backgroundColor = 'white'
 	warning.style.minWidth = '100%'
 	warning.style.minHeight = '100%'
-	// warning.style.position = 'absolute'
 	warning.style.zIndex = 300
 
 	const img = document.createElement('img')
@@ -1391,7 +1404,12 @@ function blockFacebookWrapper(wrapper, blockObject) {
 
 	const div = document.createElement('div')
 	div.style = "text-align:center;padding:10px;"
-	div.append("Stránka "+blockObject.title+" bola označená ako nevhodná a pre vašu bezpečnosť na ňu neodporúčame pokračovať.")
+
+	const tb1 = document.createElement('b')
+	tb1.innerText = 'Pozor!'
+	div.append(tb1)
+
+	div.append(" Stránka "+blockObject.title+" bola označená ako potenciálne nebezpečná.")
 
 	div.append(document.createElement('br'))
 	div.append(document.createElement('br'))
@@ -1418,15 +1436,16 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	const b2 = document.createElement('b')
 	b2.innerText = 'neodporúčame'
 	const b3 = document.createElement('b')
-	b3.innerText = 'konšpirátorský obsah'
-	p.append("Stránka "+blockObject.title+" bola označená ako ",b1," a pre vašu bezpečnosť na ňu ",b2," pokračovať. Táto stránka môže obsahovať ",b3,", ktorý sa nezakladá na pravde. ")
+	b3.innerText = 'konšpiračný obsah'
+	p.append("Stránka "+blockObject.title+" bola označená ako potenciálne ",b1," a preto vám na ňu ",b2," pokračovať. Táto stránka môže obsahovať ",b3,", ktorý sa nezakladá na pravde, systematicky zavádza, vyzýva k násiliu alebo nerešpektuje základné zásady novinárskej etiky.")
 	
 	p.append(document.createElement('br'))
 	p.append(document.createElement('br'))
 
-	p.append("Podrobnosti o stránke "+blockObject.title+" nájdete na stránke nášho projektu: ")
+	p.append("Podrobnosti nájdete na našej stránke: ")
+
 	const aInfo = document.createElement('a')
-	aInfo.style = "color:grey;"
+	aInfo.style = "color:rgb(24, 119, 242);"
 	aInfo.target = "_blank"
 	aInfo.href = "https://antivytrus.sk"
 	aInfo.innerText = "antivytrus.sk"
@@ -1435,8 +1454,14 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	p.append(document.createElement('br'))
 	p.append(document.createElement('br'))
 
+	p.append("Napriek tomu, že táto stránka bola označená ako nebezpečná kvôli jej konšpiračnému charakteru, niektoré informácie zverejnené na tejto stránke môžu byť pravdivé.")
+
+
+	p.append(document.createElement('br'))
+	p.append(document.createElement('br'))
+
 	const aShow = document.createElement('a')
-	aShow.style = "color:rgb(24, 119, 242);"
+	aShow.style = "color:grey;"
 	aShow.href= "#"
 	aShow.onclick = function(){
 		for (let i = 0; i < wrapper.children.length; i++) {
