@@ -1,6 +1,6 @@
 const list = [
 	{
-		"title": "VigilantCitizen",
+		"title": "vigilantcitizen",
 		"language" : "en",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -8,14 +8,14 @@ const list = [
 		"facebook": ["https://www.facebook.com/realvigilantcitizen"]
 	},
 	{
-		"title": "Zvedavec",
-		"language" : "cz",
+		"title": "zvedavec",
+		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["zvedavec.org"]
 	},
 	{
-		"title": "Protiprudu",
+		"title": "protiprudu",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -23,7 +23,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/podcastprotiproudu"]
 	},
 	{
-		"title": "OrgoNet",
+		"title": "orgo-net",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -31,7 +31,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Orgo-Net-na-FB-232171370242412"]
 	},
 	{
-		"title": "Aeronet",
+		"title": "aeronet",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -39,7 +39,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/aeronet.cz"]
 	},
 	{
-		"title": "Conspi",
+		"title": "conspi",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -47,7 +47,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/conspicz"]
 	},
 	{
-		"title": "NewWorldOrderOpposition",
+		"title": "nwoo",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -55,7 +55,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/groups/344917118941679"]
 	},
 	{
-		"title": "Exopolitika",
+		"title": "exopolitika",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -63,7 +63,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/Exopolitika-377359218568"]
 	},
 	{
-		"title": "Badatel",
+		"title": "badatel",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -71,7 +71,7 @@ const list = [
 		"facebook": ["https://www.facebook.com/B%C3%A1date%C4%BEnet-538138222998497"]
 	},
 	{
-		"title": "CeskeNezavisleZpravodajstvi",
+		"title": "czechfreepress",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -79,28 +79,28 @@ const list = [
 		"facebook": ["https://www.facebook.com/czechfreepress"]
 	},
 	{
-		"title": "StratenaEuropa",
+		"title": "stratenaeuropa",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["stratenaeuropa.sk"]
 	},
 	{
-		"title": "BraveNewWorldOrder",
+		"title": "bnw-nwo",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["bnw-nwo.wz.cz"]
 	},
 	{
-		"title": "Protiprud",
+		"title": "protiprud",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["protiprud.sk"]
 	},
 	{
-		"title": "Protiproud",
+		"title": "protiproud",
 		"language" : "cz",
 		"type" : "conspiracy",
 		"notes" : "",
@@ -108,12 +108,1148 @@ const list = [
 		"facebook": ["https://www.facebook.com/protiproud.cz"]
 	},
 	{
-		"title": "ZemaVek",
+		"title": "zemavek",
 		"language" : "sk",
 		"type" : "conspiracy",
 		"notes" : "",
 		"domains": ["zemavek.sk"],
 		"facebook": ["https://www.facebook.com/ZEMAVEK"]
+	},
+	{
+		"title": "blokprotiislamizaci",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "podobne stranky pre kraje v cesku",
+		"domains": ["blokprotiislamizaci.cz"],
+		"facebook": ["https://www.facebook.com/BPiLiberecko"]
+	},
+	{
+		"title": "afinabul",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["afinabul.blog.cz"],
+		"facebook": ["https://www.facebook.com/Afinabulblogcz"]
+	},
+	{
+		"title": "prvopodstata",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["prvopodstata.com"]
+	},
+	{
+		"title": "stalo-se",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["stalo-se.cz"],
+		"facebook": ["https://www.facebook.com/Stalo-se-271169370078843"]
+	},
+	{
+		"title": "slobodavockovani",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["slobodavockovani.cz"],
+		"facebook": ["https://www.facebook.com/sloboda.v.ockovani"]
+	},
+	{
+		"title": "magnificat",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["magnificat.cz"],
+		"facebook": ["https://www.facebook.com/magnificatmag"]
+	},
+	{
+		"title": "nekorektni-tv",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nekorektni-tv.cz"]
+	},
+	{
+		"title": "veksvetla",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["veksvetla.cz"],
+		"facebook": ["https://www.facebook.com/V%C4%9Bk-Sv%C4%9Btla-1781861465420457"]
+	},
+	{
+		"title": "sho",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["sho.sk"],
+		"facebook": ["https://www.facebook.com/shoreusable"]
+	},
+	{
+		"title": "nadhlad",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nadhlad.sk"],
+		"facebook": ["https://www.facebook.com/nadhlad.ponad.protiklady"]
+	},
+	{
+		"title": "pravdive",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["pravdive.eu"]
+	},
+	{
+		"title": "bezpolitickekorektnosti",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bezpolitickekorektnosti.cz"]
+	},
+	{
+		"title": "freeglobe",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["freeglobe.cz"],
+		"facebook": ["https://www.facebook.com/freeGlobecz-nov%C3%BD-sv%C4%9Btov%C3%BD-%C5%99%C3%A1d-135133549861997"]
+	},
+	{
+		"title": "svobodnenoviny",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["svobodnenoviny.eu"],
+		"facebook": ["https://www.facebook.com/svobodnenovinyeu-240233692807752"]
+	},
+	{
+		"title": "vedomec",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["vedomec.com"],
+		"facebook": ["https://www.facebook.com/citajteVedomec"]
+	},
+	{
+		"title": "anti-illuminati",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["anti-illuminati.wbl.sk"],
+		"facebook": ["https://www.facebook.com/anti-illuminati-207614131984"]
+	},
+	{
+		"title": "leva-net",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["leva-net.webnode.cz"],
+		"facebook": ["https://www.facebook.com/LevaNet-794919137331164"]
+	},
+	{
+		"title": "vlasteneckenoviny",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["vlasteneckenoviny.cz"]
+	},
+	{
+		"title": "novarepublika",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["novarepublika.cz"],
+		"facebook": ["https://www.facebook.com/stop259"]
+	},
+	{
+		"title": "rukojmi",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["rukojmi.cz"],
+		"facebook": ["https://www.facebook.com/rukojmi.cz"]
+	},
+	{
+		"title": "rozhladna",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["rozhladna.org"],
+		"facebook": ["https://www.facebook.com/Rozh%C4%BEad%C5%88a-635512843478173"]
+	},
+	{
+		"title": "yournewswire",
+		"language" : "en",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["yournewswire.com"],
+		"facebook": ["https://www.facebook.com/yournewswire"]
+	},
+	{
+		"title": "obcianskytribunal",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["obcianskytribunal.sk"],
+		"facebook": ["https://www.facebook.com/groups/povstalci"]
+	},
+	{
+		"title": "idemvolit",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["idemvolit.sk"],
+		"facebook": ["https://www.facebook.com/idemvolitsk"]
+	},
+	{
+		"title": "tadesco",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["tadesco.cz"],
+		"facebook": ["https://www.facebook.com/tadesco.org"]
+	},
+	{
+		"title": "eurasia24",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["eurasia24.cz"],
+		"facebook": ["https://www.facebook.com/Eurasia24-445786142269165"]
+	},
+	{
+		"title": "nemesis",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nemesis.sk"],
+		"facebook": ["https://www.facebook.com/nemesisbd"]
+	},
+	{
+		"title": "euronoviny",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["euronoviny.eu"],
+		"facebook": ["https://www.facebook.com/Euronovinyeu-136701907009141"]
+	},
+	{
+		"title": "zahadnysvet",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "viac fb stranok",
+		"domains": ["zahadnysvet.sk"],
+		"facebook": ["https://www.facebook.com/ZahadnySvetsk-941539595978322"]
+	},
+	{
+		"title": "slobodnyvysielac",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "viac fb stranok",
+		"domains": ["slobodnyvysielac.sk"],
+		"facebook": ["Slobodný vysiela_"]
+	},
+	{
+		"title": "dobajedu",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["dobajedu.cz"]
+	},
+	{
+		"title": "tartaria",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["tartaria.sk"]
+	},
+	{
+		"title": "energieupramene",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["energieupramene.blogspot.sk"]
+	},
+	{
+		"title": "magazin1",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["magazin1.sk"],
+		"facebook": ["https://www.facebook.com/magazin1.sk"]
+	},
+	{
+		"title": "ac24",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ac24.cz"],
+		"facebook": ["https://www.facebook.com/AC24.cz"]
+	},
+	{
+		"title": "alternativnimagazin",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["alternativnimagazin.cz"],
+		"facebook": ["https://www.facebook.com/AlternativniMagazin"]
+	},
+	{
+		"title": "isstras",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["isstras.eu"]
+	},
+	{
+		"title": "infokuryr",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["infokuryr.cz"],
+		"facebook": ["https://www.facebook.com/infokuryr"]
+	},
+	{
+		"title": "picuscapital",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["picuscapital.sk"],
+		"facebook": ["https://www.facebook.com/picuscapital"]
+	},
+	{
+		"title": "suenee",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["suenee.cz"],
+		"facebook": ["https://www.facebook.com/SueneeUniverse"]
+	},
+	{
+		"title": "megazine",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["megazine.cz"],
+		"facebook": ["https://www.facebook.com/megazinepoa"]
+	},
+	{
+		"title": "je-to-inak",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["je-to-inak.livejournal.com"]
+	},
+	{
+		"title": "naturalnews",
+		"language" : "en",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["naturalnews.com"]
+	},
+	{
+		"title": "necenzurovane",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["necenzurovane.net"],
+		"facebook": ["https://www.facebook.com/Necenzurovane.sk"]
+	},
+	{
+		"title": "priznakytransformace",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["priznakytransformace.cz"],
+		"facebook": ["https://www.facebook.com/PRIZNAKYTRANSFORMACE"]
+	},
+	{
+		"title": "nadlani",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nadlani.org"],
+		"facebook": ["https://www.facebook.com/nadlani.org"]
+	},
+	{
+		"title": "mysteria",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["mysteria.cz"]
+	},
+	{
+		"title": "freedomeurope",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "nefunkcny web",
+		"domains": ["freedomeurope.eu"],
+		"facebook": ["https://www.facebook.com/europefreedom"]
+	},
+	{
+		"title": "lifenews",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["lifenews.sk"],
+		"facebook": ["https://www.facebook.com/LifeNewsSK"]
+	},
+	{
+		"title": "eurabia",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["eurabia.cz"],
+		"facebook": ["https://www.facebook.com/eurabia.cz"]
+	},
+	{
+		"title": "euportal",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["euportal.cz"],
+		"facebook": ["https://www.facebook.com/eportal.cz"]
+	},
+	{
+		"title": "euserver",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["euserver.cz"],
+		"facebook": ["https://www.facebook.com/euserver.cz"]
+	},
+	{
+		"title": "proevropu",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["proevropu.com"],
+		"facebook": ["https://www.facebook.com/proevropu"]
+	},
+	{
+		"title": "cestyksobe",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["cestyksobe.cz"],
+		"facebook": ["https://www.facebook.com/cestyksobe"]
+	},
+	{
+		"title": "ceskoaktualne",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ceskoaktualne.cz"],
+		"facebook": ["https://www.facebook.com/ceskoaktualne"]
+	},
+	{
+		"title": "pravyprostor",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["pravyprostor.cz"],
+		"facebook": ["https://www.facebook.com/pravyprostor.cz"]
+	},
+	{
+		"title": "kulturblog",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["kulturblog.sk"],
+		"facebook": ["https://www.facebook.com/kulturblog.sk"]
+	},
+	{
+		"title": "karolinaloskotova",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["karolinaloskotova.blog.cz"]
+	},
+	{
+		"title": "osud",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "nefunguje web",
+		"domains": ["osud.cz"]
+	},
+	{
+		"title": "ers",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ers.blog.cz"]
+	},
+	{
+		"title": "infovojna",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["infovojna.sk"],
+		"facebook": ["https://www.facebook.com/Infovojna"]
+	},
+	{
+		"title": "rudovasky",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["rudovasky.com"]
+	},
+	{
+		"title": "tydenikobcanskepravo",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["tydenikobcanskepravo.cz"],
+		"facebook": ["https://www.facebook.com/toptydenik"]
+	},
+	{
+		"title": "procproto",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["procproto.cz"],
+		"facebook": ["https://www.facebook.com/procproto"]
+	},
+	{
+		"title": "bajecnezeny",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bajecnezeny.sk"]
+	},
+	{
+		"title": "casopis-sifra",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["casopis-sifra.cz"],
+		"facebook": ["https://www.facebook.com/SifraCasopis"]
+	},
+	{
+		"title": "svetkolemnas",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["svetkolemnas.info"],
+		"facebook": ["https://www.facebook.com/svetkolemnas1"]
+	},
+	{
+		"title": "freepub",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["freepub.cz"],
+		"facebook": ["https://www.facebook.com/FreePub.cz"]
+	},
+	{
+		"title": "dt24",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["dt24.cz"]
+	},
+	{
+		"title": "radyzdravie",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["radyzdravie.sk"],
+		"facebook": ["https://www.facebook.com/radyzdravie"]
+	},
+	{
+		"title": "skrytapravda",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["skrytapravda.cz"],
+		"facebook": ["https://www.facebook.com/skrytapravda"]
+	},
+	{
+		"title": "priezor",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["priezor.com"],
+		"facebook": ["https://www.facebook.com/Priezor"]
+	},
+	{
+		"title": "panobcan",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["panobcan.sk"],
+		"facebook": ["https://www.facebook.com/panobcan.sk"]
+	},
+	{
+		"title": "slobodnyvyber",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["slobodnyvyber.sk"],
+		"facebook": ["https://www.facebook.com/slobodnyvyber"]
+	},
+	{
+		"title": "silavedomia",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["silavedomia.sk"],
+		"facebook": ["https://www.facebook.com/Sila-vedomia-1751679901760595"]
+	},
+	{
+		"title": "stopislam",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["stopislam.eu"],
+		"facebook": ["https://www.facebook.com/groups/437165113080215"]
+	},
+	{
+		"title": "nazorobcana",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nazorobcana.sk"]
+	},
+	{
+		"title": "sputniknews",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["sputniknews.com"],
+		"facebook": ["https://www.facebook.com/sputniknews.sk"]
+	},
+	{
+		"title": "southfront",
+		"language" : "en",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["southfront.org"],
+		"facebook": ["https://www.facebook.com/SouthFrontEnTwo"]
+	},
+	{
+		"title": "nejvic-info",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["nejvic-info.cz"],
+		"facebook": ["https://www.facebook.com/Nejvicinfo"]
+	},
+	{
+		"title": "euroasie",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["euroasie.info"],
+		"facebook": ["https://www.facebook.com/EuroAsie.Info"]
+	},
+	{
+		"title": "wmmagazin",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["wmmagazin.cz"],
+		"facebook": ["https://www.facebook.com/wmmagazin.cz"]
+	},
+	{
+		"title": "wertyzreport",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["wertyzreport.cz"],
+		"facebook": ["https://www.facebook.com/WertyzReport"]
+	},
+	{
+		"title": "e-republika",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["e-republika.cz"],
+		"facebook": ["https://www.facebook.com/eRepublika.cz"]
+	},
+	{
+		"title": "cestacloveka",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["cestacloveka.sk"],
+		"facebook": ["https://www.facebook.com/CestaCloveka"]
+	},
+	{
+		"title": "mcaris",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["mcaris.net"],
+		"facebook": ["https://www.facebook.com/tomas.brezina.feft"]
+	},
+	{
+		"title": "paratdnes",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["paratdnes.cz"],
+		"facebook": ["https://www.facebook.com/skrytapravdaparatdnes"]
+	},
+	{
+		"title": "venuska",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "nefunkcny web",
+		"domains": ["venuska.cz"]
+	},
+	{
+		"title": "biosferaklub",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["biosferaklub.info"]
+	},
+	{
+		"title": "medzicas",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["medzicas.sk"],
+		"facebook": ["https://www.facebook.com/medzicas"]
+	},
+	{
+		"title": "gloria",
+		"language" : "gr",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["gloria.tv"],
+		"facebook": ["https://www.facebook.com/GottesGloriaTV"]
+	},
+	{
+		"title": "otvoroci",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["otvoroci.com"],
+		"facebook": ["https://www.facebook.com/Otvoro%C4%8Di-251692861652727"]
+	},
+	{
+		"title": "extraplus",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["extraplus.sk"],
+		"facebook": ["https://www.facebook.com/extraplus.sk"]
+	},
+	{
+		"title": "lajkit",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["lajkit.cz"],
+		"facebook": ["https://www.facebook.com/lajkit.cz"]
+	},
+	{
+		"title": "bajecnezdravie",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bajecnezdravie.sk"],
+		"facebook": ["https://www.facebook.com/bajecnezdravie"]
+	},
+	{
+		"title": "radyprezdravie",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "nefunkcny web",
+		"domains": ["radyprezdravie.sk"]
+	},
+	{
+		"title": "radyprezeny",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["radyprezeny.sk"],
+		"facebook": ["https://www.facebook.com/Rady-pre-%C5%BDENY-1596351360689861"]
+	},
+	{
+		"title": "mocvedomi",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["mocvedomi.cz"],
+		"facebook": ["https://www.facebook.com/Moc-v%C4%9Bdom%C3%AD-333103003725172"]
+	},
+	{
+		"title": "datel",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["datel.sk"],
+		"facebook": ["https://www.facebook.com/datel.sk"]
+	},
+	{
+		"title": "breitbart",
+		"language" : "gr",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["breitbart.com"],
+		"facebook": ["https://www.facebook.com/Breitbart"]
+	},
+	{
+		"title": "drsne",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["drsne.sk"]
+	},
+	{
+		"title": "slovenskeslovo",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["slovenskeslovo.sk"]
+	},
+	{
+		"title": "domacaliecba",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["domacaliecba.sk"],
+		"facebook": ["https://www.facebook.com/Dom%C3%A1ca-lie%C4%8Dba-1555211248131311"]
+	},
+	{
+		"title": "themindunleashed",
+		"language" : "en",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["themindunleashed.com"],
+		"facebook": ["https://www.facebook.com/TheMindUnleashed"]
+	},
+	{
+		"title": "hlavnespravy",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["hlavnespravy.sk"],
+		"facebook": ["https://www.facebook.com/www.hlavnespravy.sk"]
+	},
+	{
+		"title": "narodninoviny",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["narodninoviny.cz"],
+		"facebook": ["https://www.facebook.com/narodninoviny.cz"]
+	},
+	{
+		"title": "fresher",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["fresher.sk"],
+		"facebook": ["https://www.facebook.com/Freshersk-368489026937740"]
+	},
+	{
+		"title": "radynadzlato",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["radynadzlato.sk"],
+		"facebook": ["https://www.facebook.com/radynadzlato"]
+	},
+	{
+		"title": "outsidermedia",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["outsidermedia.cz"],
+		"facebook": ["https://www.facebook.com/OutsiderMedia-679074085513244"]
+	},
+	{
+		"title": "arindrexler",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["arindrexler.com"]
+	},
+	{
+		"title": "lukasperny",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["lucasperny.blog.pravda.sk"],
+		"facebook": ["https://www.facebook.com/Lucas-Perny-212562708781059"]
+	},
+	{
+		"title": "ceskozdrave",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ceskozdrave.cz"],
+		"facebook": ["https://www.facebook.com/ceskozdrave"]
+	},
+	{
+		"title": "eportal",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["eportal.cz"],
+		"facebook": ["https://www.facebook.com/eportal.cz"]
+	},
+	{
+		"title": "dolezite",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["dolezite.sk"],
+		"facebook": ["https://www.facebook.com/dolezite.sk"]
+	},
+	{
+		"title": "napalete",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["napalete.sk"],
+		"facebook": ["https://www.facebook.com/napalete.sk"]
+	},
+	{
+		"title": "vylectese",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["vylectese.cz"],
+		"facebook": ["https://www.facebook.com/Vylectesecz-1729514577374304"]
+	},
+	{
+		"title": "bajecnylekar",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bajecnylekar.sk"],
+		"facebook": ["https://www.facebook.com/bajecnylekar"]
+	},
+	{
+		"title": "jenona",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["jenona.tiscali.cz"],
+		"facebook": ["https://www.facebook.com/tiscali.cz"]
+	},
+	{
+		"title": "zpravodaj24",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["zpravodaj24.eu"],
+		"facebook": ["https://www.facebook.com/zpravodaj24cz"]
+	},
+	{
+		"title": "woman",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["woman.tiscali.cz"],
+		"facebook": ["https://www.facebook.com/tiscali.cz"]
+	},
+	{
+		"title": "ipribeh",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ipribeh.cz"],
+		"facebook": ["https://www.facebook.com/ipribeh"]
+	},
+	{
+		"title": "slovakexportregister",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "nefukncny web",
+		"domains": ["slovakexportregister.eu"]
+	},
+	{
+		"title": "ozonyx",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["ozonyx.cz"]
+	},
+	{
+		"title": "weeks",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["weeks.cz"]
+	},
+	{
+		"title": "prvnizpravy",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["prvnizpravy.cz"],
+		"facebook": ["https://www.facebook.com/prvnizpravy.cz"]
+	},
+	{
+		"title": "davdva",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["davdva.sk"],
+		"facebook": ["https://www.facebook.com/magazindavdva"]
+	},
+	{
+		"title": "resso",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["resso.sk"],
+		"facebook": ["https://www.facebook.com/resso.sk"]
+	},
+	{
+		"title": "vitalitis",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["vitalitis.cz"],
+		"facebook": ["https://www.facebook.com/vitalitis.cz"]
+	},
+	{
+		"title": "stredoevropan",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["stredoevropan.cz"],
+		"facebook": ["https://www.facebook.com/stredoevropan"]
+	},
+	{
+		"title": "medicalcentrum",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["medicalcentrum.eu"]
+	},
+	{
+		"title": "withform",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["withform.cz"],
+		"facebook": ["https://www.facebook.com/withform"]
+	},
+	{
+		"title": "trendweb",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["trendweb.sk"],
+		"facebook": ["https://www.facebook.com/trendweb.sk"]
+	},
+	{
+		"title": "precitaj",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["precitaj.si"],
+		"facebook": ["https://www.facebook.com/precitajsi"]
+	},
+	{
+		"title": "babickinerady",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["babickinerady.sk"],
+		"facebook": ["https://www.facebook.com/Babi%C4%8Dky-n%C3%A1m-radia-565568617185873"]
+	},
+	{
+		"title": "svobodnymonitor",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["svobodnymonitor.cz"],
+		"facebook": ["https://www.facebook.com/svobodnyzpravodaj"]
+	},
+	{
+		"title": "bajecnylekar",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bajecnylekar.cz"],
+		"facebook": ["https://www.facebook.com/B%C3%A1je%C4%8Dn%C3%BD-l%C3%A9ka%C5%99-1904503426440012"]
+	},
+	{
+		"title": "parlamentne-volby-2016",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["parlamentne-volby-2016.sk"]
+	},
+	{
+		"title": "farmazdravi",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["farmazdravi.cz"],
+		"facebook": ["https://www.facebook.com/farmazdravi"]
+	},
+	{
+		"title": "zlapanda",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["zlapanda.cz"]
+	},
+	{
+		"title": "eurodenik",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["eurodenik.cz"],
+		"facebook": ["https://www.facebook.com/eurodenik"]
+	},
+	{
+		"title": "onlineslecna",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "nefunkcny web",
+		"domains": ["onlineslecna.cz"]
+	},
+	{
+		"title": "hlavnydennik",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["hlavnydennik.sk"],
+		"facebook": ["https://www.facebook.com/hlavnydenniksk"]
+	},
+	{
+		"title": "bajecnyzivot",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["bajecnyzivot.sk"],
+		"facebook": ["https://www.facebook.com/bajecnyzivot"]
+	},
+	{
+		"title": "dennikpolitika",
+		"language" : "sk",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["dennikpolitika.sk"],
+		"facebook": ["https://www.facebook.com/dennikpolitika"]
+	},
+	{
+		"title": "prosvet",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "",
+		"domains": ["prosvet.cz"],
+		"facebook": ["https://www.facebook.com/ProSvet.cz"]
+	},
+	{
+		"title": "halonoviny",
+		"language" : "cz",
+		"type" : "conspiracy",
+		"notes" : "nefunkcny web",
+		"domains": ["halonoviny.cz"],
+		"facebook": ["https://www.facebook.com/Halonoviny.cz"]
 	}
 ];
 
@@ -180,8 +1316,8 @@ function getWebsiteElement(blockObject) {
 	paragraf.append('Podrobnosti o stránke '+blockObject.title+' nájdete na stránke nášho projektu: ')
 	linkHref = document.createElement('a')
 	linkHref.style = "font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;color:white;text-decoration: underline;"
-	linkHref.href = 'https://antivytrus.sk/'+blockObject.title
-	linkHref.innerText = 'antivytrus.sk/'+blockObject.title
+	linkHref.href = 'https://antivytrus.sk'
+	linkHref.innerText = 'antivytrus.sk'
 	paragraf.append(linkHref)
 	paragraf.append(document.createElement('br'))
 	paragraf.append(document.createElement('br'))
@@ -292,8 +1428,8 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	const aInfo = document.createElement('a')
 	aInfo.style = "color:grey;"
 	aInfo.target = "_blank"
-	aInfo.href = "https://antivytrus.sk/"+blockObject.title
-	aInfo.innerText = "antivytrus.sk/"+blockObject.title
+	aInfo.href = "https://antivytrus.sk"
+	aInfo.innerText = "antivytrus.sk"
 	p.append(aInfo)
 
 	p.append(document.createElement('br'))
@@ -358,7 +1494,12 @@ function getFacebookBlockObject(blockData, link) {
 
 		if (blockObject.domains) {
 			for (let j = 0; j < blockObject.domains.length; j++) {
-				if (link.includes(blockObject.domains[j])) {
+				matches = link.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+				if (!matches || !matches[1]) {
+					continue;
+				}
+
+				if (matches[1] === blockObject.domains[j]) {
 					return blockObject;
 				}
 			}
