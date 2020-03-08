@@ -924,14 +924,6 @@ const list = [
 		"facebook": ["https://www.facebook.com/TheMindUnleashed"]
 	},
 	{
-		"title": "Hlavné správy",
-		"language" : "sk",
-		"type" : "conspiracy",
-		"notes" : "",
-		"domains": ["hlavnespravy.sk"],
-		"facebook": ["https://www.facebook.com/www.hlavnespravy.sk"]
-	},
-	{
 		"title": "Národní noviny",
 		"language" : "cz",
 		"type" : "conspiracy",
@@ -1253,8 +1245,30 @@ const list = [
 	}
 ];
 
+const version = "1.6"
+
 function getBodyTag() {
 	return document.getElementsByTagName('body')[0]
+}
+
+function getImageQuery(title, type, action) {
+	return '?av_id='+getId()+'&av_version='+version+'&av_type='+type+'&av_action='+action+'&av_title='+title+'&av_random='+getRandomString();
+}
+
+function getRandomString() {
+	const s = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+	return Array(32).join().split(',').map(function() { return s.charAt(Math.floor(Math.random() * s.length)); }).join('');
+}
+
+function getId() {
+	let id = window.localStorage.getItem('antivytrus-id')
+	if (!id) {
+		id = getRandomString()
+		window.localStorage.setItem('antivytrus-id', id)
+		return id;
+	}
+
+	return id;
 }
 
 function notWhitelistedWebsite(blockObject, prefix, list) {
@@ -1282,7 +1296,7 @@ function getWebsiteElement(blockObject) {
 	
 	const img = document.createElement('img')
 	img.style = "width:48px;height:48px;"
-	img.src = "https://api.antivytrus.sk/warning.png"
+	img.src = "https://img.antivytrus.sk/warning.png"+getImageQuery(blockObject.title, 'web', 'overlay')
 	div.append(img)
 
 	const header = document.createElement('h1')
@@ -1337,7 +1351,13 @@ function getWebsiteElement(blockObject) {
 	paragraf.append(document.createElement('br'))
 	const continueHref = document.createElement('a')
 	continueHref.style = "font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;color:white;font-size:12;cursor: pointer;"
-	continueHref.onclick = function(){this.parentNode.parentNode.style.display = 'none';window.localStorage.setItem('antivytrus-website-whitelist-'+blockObject.title, (new Date()).getTime())}
+	continueHref.onclick = function(){
+		const img2 = document.createElement('img')
+		img2.style = "width:1px;height:1px;position: absolute;"
+		img2.src = "https://img.antivytrus.sk/p.png"+getImageQuery(blockObject.title, 'web', 'display')
+		document.getElementsByTagName('body')[0].prepend(img2)
+		this.parentNode.parentNode.style.display = 'none';window.localStorage.setItem('antivytrus-website-whitelist-'+blockObject.title, (new Date()).getTime())
+	}
 	continueHref.innerText = 'Rozumiem rizikám, zobraziť príspevok'
 	paragraf.append(continueHref)
 	div.append(paragraf)
@@ -1399,7 +1419,7 @@ function blockFacebookWrapper(wrapper, blockObject) {
 
 	const img = document.createElement('img')
 	img.style = "max-width:100%"
-	img.src = "https://api.antivytrus.sk/image.jpg"
+	img.src = "https://img.antivytrus.sk/image.jpg"+getImageQuery(blockObject.title, 'facebook', 'overlay')
 	warning.append(img)
 
 	const div = document.createElement('div')
@@ -1416,7 +1436,13 @@ function blockFacebookWrapper(wrapper, blockObject) {
 
 	const buttonHide = document.createElement('button')
 	buttonHide.style = "align-items:flex-start; background-color:rgb(24, 119, 242); background-position-x:0px; background-position-y:0px; border-bottom-color:rgb(24, 119, 242); border-bottom-left-radius:2px; border-bottom-right-radius:2px; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-image-outset:0px; border-image-repeat:stretch; border-image-slice:100%; border-image-source:none; border-image-width:1; border-left-color:rgb(24, 119, 242); border-left-style:solid; border-left-width:1px; border-right-color:rgb(24, 119, 242); border-right-style:solid; border-right-width:1px; border-top-color:rgb(24, 119, 242); border-top-left-radius:2px; border-top-right-radius:2px; border-top-style:solid; border-top-width:1px; box-shadow:none; box-sizing:border-box; color:rgb(255, 255, 255); cursor:pointer; direction:ltr; display:inline-block; font-family:-apple-system, system-ui, Arial, sans-serif; font-size:12px; font-stretch:100%; font-style:normal; font-variant-caps:normal; font-variant-east-asian:normal; font-variant-ligatures:normal; font-variant-numeric:normal; font-weight:700; height:28px; letter-spacing:normal; line-height:26px; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; /*max-width:242px;*/ outline-color:rgb(255, 255, 255); outline-style:none; outline-width:0px; overflow-x:visible; overflow-y:visible; padding-bottom:0px; padding-left:11px; padding-right:11px; padding-top:0px; position:relative; text-align:center; text-indent:0px; text-rendering:auto; text-shadow:none; text-transform:none; transition-delay:0s, 0s; transition-duration:0.3s, 0.001s; transition-property:background, border-color, border-width, color; transition-timing-function:cubic-bezier(0.1, 0.7, 0.1, 1), ease; vertical-align:middle; width: auto; word-spacing:0px; writing-mode:horizontal-tb; -webkit-appearance:none; -webkit-border-horizontal-spacing:0px; -webkit-border-vertical-spacing:0px; -webkit-font-smoothing:antialiased; -webkit-border-image:none;"
-	buttonHide.onclick = function(){this.parentNode.parentNode.parentNode.style.display = 'none';window.localStorage.setItem('antivytrus-facebook-blacklist-'+blockObject.title, (new Date()).getTime())}
+	buttonHide.onclick = function(){
+		const img2 = document.createElement('img')
+		img2.style = "width:1px;height:1px;position: absolute;"
+		img2.src = "https://img.antivytrus.sk/p.png"+getImageQuery(blockObject.title, 'facebook', 'hide')
+		wrapper.prepend(img2)
+		this.parentNode.parentNode.parentNode.style.display = 'none';window.localStorage.setItem('antivytrus-facebook-blacklist-'+blockObject.title, (new Date()).getTime())
+	}
 	buttonHide.append('Už nezobrazovať túto stránku')
 	div.append(buttonHide)
 
@@ -1467,6 +1493,10 @@ function blockFacebookWrapper(wrapper, blockObject) {
 		for (let i = 0; i < wrapper.children.length; i++) {
 			wrapper.children[i].style.display = 'block'
 		}
+		const img3 = document.createElement('img')
+		img3.style = "width:1px;height:1px;position: absolute;"
+		img3.src = "https://img.antivytrus.sk/p.png"+getImageQuery(blockObject.title, 'facebook', 'display')
+		wrapper.prepend(img3)
 		this.parentNode.parentNode.parentNode.style.display = 'none';
 		window.localStorage.setItem('antivytrus-facebook-whitelist-'+blockObject.title, (new Date()).getTime())
 	}

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Antivytrus.sk",
-  "version": "1.5",
+  "version": "1.6",
   "content_scripts": [
     {
       "matches": [
@@ -124,7 +124,6 @@
         "*://*.slovenskeslovo.sk/*",
         "*://*.domacaliecba.sk/*",
         "*://*.themindunleashed.com/*",
-        "*://*.hlavnespravy.sk/*",
         "*://*.narodninoviny.cz/*",
         "*://*.fresher.sk/*",
         "*://*.radynadzlato.sk/*",
