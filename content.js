@@ -377,7 +377,7 @@ const list = [
 		  "christianitas.sk"
 	   ],
 	   "facebook":[
-		  "https://www.facebook.com/christianitas.sk/"
+		  " https://www.facebook.com/christianitask/"
 	   ],
 	   "id":"christianitas"
 	},
@@ -439,7 +439,7 @@ const list = [
 		  "davdva.sk"
 	   ],
 	   "facebook":[
-		  "https://www.facebook.com/magazindavdva"
+		  " https://www.facebook.com/veciverejnesk/"
 	   ],
 	   "id":"dav-dva"
 	},
@@ -478,7 +478,7 @@ const list = [
 		  "desitka.org"
 	   ],
 	   "facebook":[
-		  
+  		"https://www.facebook.com/Des%C3%ADtka-406792259921758/"
 	   ],
 	   "id":"desitka-org"
 	},
@@ -514,7 +514,7 @@ const list = [
 		  "domacaliecba.sk"
 	   ],
 	   "facebook":[
-		  "https://www.facebook.com/Dom%C3%A1ca-lie%C4%8Dba-1555211248131311"
+		  " https://www.facebook.com/Dom%C3%A1ca-lie%C4%8Dba-1555211248131311"
 	   ],
 	   "id":"domaca-liecba"
 	},
@@ -845,6 +845,19 @@ const list = [
 	   "id":"halo-noviny"
 	},
 	{
+	   "title":"Hlavné správy",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "hlavnespravy.sk"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com/www.hlavnespravy.sk"
+	   ],
+	   "id":"hlavne-spravy"
+	},,
+	{
 	   "title":"Hlavný denník",
 	   "language":"sk",
 	   "type":"conspiracy",
@@ -882,6 +895,19 @@ const list = [
 		  "https://www.facebook.com/IdemVolitsk-100867488208903"
 	   ],
 	   "id":"idem-volit"
+	},
+{
+	   "title":"Ine Noviny",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "inenoviny.sk"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com//inenoviny.sk/"
+	   ],
+	   "id":"ine-noviny"
 	},
 	{
 	   "title":"Infokurýr",
@@ -1084,8 +1110,28 @@ const list = [
 	   "domains":[
 		  "magazin1.sk"
 	   ],
+	   "facebook":[
+		  "https://www.facebook.com/magazin1online"
+	   ],
+
 	   "id":"magazin1sk"
 	},
+	   
+
+{
+	   "title":"Magazín Slovensko",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "magazinslovensko.online/"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com/magazinslovensko/"
+	   ],
+	   "id":"magazin-slovensko"
+	},
+
 	{
 	   "title":"Magnificat",
 	   "language":"sk",
@@ -1295,9 +1341,6 @@ const list = [
 	   "notes":"",
 	   "domains":[
 		  "necenzurovane.net"
-	   ],
-	   "facebook":[
-		  "https://www.facebook.com/necenzuroveneslovensko/"
 	   ],
 	   "id":"necenzurovane"
 	},
@@ -1527,7 +1570,7 @@ const list = [
 		  "paratdnes.cz"
 	   ],
 	   "facebook":[
-		  "https://www.facebook.com/skrytapravdaparatdnes"
+		  " https://www.facebook.com/skrytapravda.cz"
 	   ],
 	   "id":"parat-dnes"
 	},
@@ -1577,6 +1620,21 @@ const list = [
 	   ],
 	   "id":"planeta-jednoduchost"
 	},
+
+{
+	   "title":"Podtatranský Kuriér",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "podtatransky-kurier.sk"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com/PodtatranskyKurier"
+	   ],
+	   "id":"podtatransky-kurier"
+	},
+
 	{
 	   "title":"Pokec24.cz",
 	   "language":"sk",
@@ -1596,6 +1654,20 @@ const list = [
 		  "politickemimovladky.sk"
 	   ],
 	   "id":"politickemimovladky"
+	},
+
+{
+	   "title":"Poočkování",
+	   "language":"cz",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "poockovani.cz"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com/poockovani/"
+	   ],
+	   "id":"poockovani"
 	},
 	{
 	   "title":"Pravdive.eu",
@@ -1793,6 +1865,17 @@ const list = [
 	   ],
 	   "id":"prvopodstata"
 	},
+{
+	   "title":"QAnon SK",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "qanon.sk"
+	   ],
+	   "id":"qanon-sk"
+	},
+
 	{
 	   "title":"Rady nad zlato",
 	   "language":"sk",
@@ -1866,9 +1949,7 @@ const list = [
 	   "domains":[
 		  "resso.sk"
 	   ],
-	   "facebook":[
-		  "https://www.facebook.com/resso.sk"
-	   ],
+	
 	   "id":"resso"
 	},
 	{
@@ -2008,6 +2089,20 @@ const list = [
 	   ],
 	   "id":"slovak-export-register"
 	},
+
+{
+	   "title":"Slovanské noviny",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "slovanskenoviny.sk"
+	   ],
+	   "facebook":[
+		  "https://www.facebook.com/slovanskenoviny"
+	   ],
+	   "id":"slovanske-noviny"
+	},
 	{
 	   "title":"Slovenské hnutie obrody",
 	   "language":"sk",
@@ -2030,6 +2125,16 @@ const list = [
 		  "slovenskeslovo.sk"
 	   ],
 	   "id":"slovenske-slovo"
+	},
+{
+	   "title":"Som žena",
+	   "language":"sk",
+	   "type":"conspiracy",
+	   "notes":"",
+	   "domains":[
+		  "somzena.sk/"
+	   ],
+	   "id":"som-zena"
 	},
 	{
 	   "title":"South Front",
@@ -2461,7 +2566,7 @@ const list = [
 	   "type":"conspiracy",
 	   "notes":"",
 	   "domains":[
-		  "zahadnysvet.sk"
+		  " zahadnysvet.sk "
 	   ],
 	   "facebook":[
 		  "https://www.facebook.com/ZahadnySvetsk-941539595978322"
@@ -2516,7 +2621,7 @@ const list = [
 	}
  ];
 
-const cachePrefix = 'antivytrus-';
+const cachePrefix = 'chochmes-';
 
 const version = "1.6"
 
@@ -2534,10 +2639,10 @@ function getRandomString() {
 }
 
 function getId() {
-	let id = window.localStorage.getItem('antivytrus-id')
+	let id = window.localStorage.getItem('chochmes-id')
 	if (!id) {
 		id = getRandomString()
-		window.localStorage.setItem('antivytrus-id', id)
+		window.localStorage.setItem('chochmes-id', id)
 		return id;
 	}
 
@@ -2545,10 +2650,10 @@ function getId() {
 }
 
 function notWhitelistedWebsite(blockObject, prefix, list) {
-	const time = window.localStorage.getItem('antivytrus-'+prefix+'-'+list+'-'+blockObject.id)
+	const time = window.localStorage.getItem('chochmes-'+prefix+'-'+list+'-'+blockObject.id)
 	if (!time) return true;
 	if (((new Date).getTime() - time) > 1000 * 60 * 60) {
-		window.localStorage.removeItem('antivytrus-'+prefix+'-'+list+'-'+blockObject.id)
+		window.localStorage.removeItem('chochmes-'+prefix+'-'+list+'-'+blockObject.id)
 		return true;
 	}
 
@@ -2631,8 +2736,8 @@ function getWebsiteElement(blockObject) {
 	paragraf.append('Podrobnosti nájdete na stránke nášho projektu: ')
 	linkHref = document.createElement('a')
 	linkHref.style = "all:initial;cursor: pointer;font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;color:white;text-decoration: underline;"
-	linkHref.href = 'https://antivytrus.sk'
-	linkHref.innerText = 'antivytrus.sk'
+	linkHref.href = 'https://chochmes.sk'
+	linkHref.innerText = 'chochmes.sk'
 	paragraf.append(linkHref)
 	paragraf.append(document.createElement('br'))
 	paragraf.append(document.createElement('br'))
@@ -2647,7 +2752,7 @@ function getWebsiteElement(blockObject) {
 		img.style = "all:initial;width:1px;height:1px;"
 		img.src = getImageSrc('pixel', blockObject.id, 'visit', 'web')
 		this.parentNode.parentNode.parentNode.append(img)
-		window.localStorage.setItem('antivytrus-website-whitelist-'+blockObject.id, (new Date()).getTime())
+		window.localStorage.setItem('chochmes-website-whitelist-'+blockObject.id, (new Date()).getTime())
 	}
 	continueHref.innerText = 'Rozumiem rizikám, zobraziť príspevok'
 	paragraf.append(continueHref)
@@ -2657,7 +2762,7 @@ function getWebsiteElement(blockObject) {
 }
 
 function handleWrapper(wrapper) {
-	wrapper.classList.add('antivytrus')
+	wrapper.classList.add('chochmes')
 }
 
 function hideFacebookWrapper(wrapper, blockObject) {
@@ -2666,7 +2771,7 @@ function hideFacebookWrapper(wrapper, blockObject) {
 }
 
 function isWrapperHandled(wrapper) {
-	return wrapper.classList.contains('antivytrus')
+	return wrapper.classList.contains('chochmes')
 }
 
 
@@ -2749,13 +2854,13 @@ function blockNewFacebook(blockData) {
 
 function getImageSrc(type, resource, action, source) {
 	if (type === 'banner') {
-		baseUrl = "https://img.antivytrus.sk/img/banner.jpg";
+		baseUrl = "https://img.chochmes.sk/img/banner.jpg";
 	}
 	if (type === 'pixel') {
-		baseUrl = "https://img.antivytrus.sk/img/px.png";
+		baseUrl = "https://img.chochmes.sk/img/px.png";
 	}
 	if (type === 'warning') {
-		baseUrl = "https://img.antivytrus.sk/img/warning.png";
+		baseUrl = "https://img.chochmes.sk/img/warning.png";
 	}
 	const random = makeid(16)
 	const url = baseUrl+"?identifier="+getId()+"&resource="+resource+"&action="+action+"&source="+source+"&rand="+random;
@@ -2798,7 +2903,7 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	buttonHide.style = "align-items:flex-start; background-color:rgb(24, 119, 242); background-position-x:0px; background-position-y:0px; border-bottom-color:rgb(24, 119, 242); border-bottom-left-radius:2px; border-bottom-right-radius:2px; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-image-outset:0px; border-image-repeat:stretch; border-image-slice:100%; border-image-source:none; border-image-width:1; border-left-color:rgb(24, 119, 242); border-left-style:solid; border-left-width:1px; border-right-color:rgb(24, 119, 242); border-right-style:solid; border-right-width:1px; border-top-color:rgb(24, 119, 242); border-top-left-radius:2px; border-top-right-radius:2px; border-top-style:solid; border-top-width:1px; box-shadow:none; box-sizing:border-box; color:rgb(255, 255, 255); cursor:pointer; direction:ltr; display:inline-block; font-family:-apple-system, system-ui, Arial, sans-serif; font-size:12px; font-stretch:100%; font-style:normal; font-variant-caps:normal; font-variant-east-asian:normal; font-variant-ligatures:normal; font-variant-numeric:normal; font-weight:700; height:28px; letter-spacing:normal; line-height:26px; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; /*max-width:242px;*/ outline-color:rgb(255, 255, 255); outline-style:none; outline-width:0px; overflow-x:visible; overflow-y:visible; padding-bottom:0px; padding-left:11px; padding-right:11px; padding-top:0px; position:relative; text-align:center; text-indent:0px; text-rendering:auto; text-shadow:none; text-transform:none; transition-delay:0s, 0s; transition-duration:0.3s, 0.001s; transition-property:background, border-color, border-width, color; transition-timing-function:cubic-bezier(0.1, 0.7, 0.1, 1), ease; vertical-align:middle; width: auto; word-spacing:0px; writing-mode:horizontal-tb; -webkit-appearance:none; -webkit-border-horizontal-spacing:0px; -webkit-border-vertical-spacing:0px; -webkit-font-smoothing:antialiased; -webkit-border-image:none;"
 	buttonHide.onclick = function(){
 		this.parentNode.parentNode.parentNode.style.display = 'none';
-		window.localStorage.setItem('antivytrus-facebook-blacklist-'+blockObject.id, (new Date()).getTime())
+		window.localStorage.setItem('chochmes-facebook-blacklist-'+blockObject.id, (new Date()).getTime())
 		const img = document.createElement('img')
 		img.style = "width:1px;height:1px;"
 		img.src = getImageSrc('pixel', blockObject.id, 'hide', 'facebook')
@@ -2840,8 +2945,8 @@ function blockFacebookWrapper(wrapper, blockObject) {
 	const aInfo = document.createElement('a')
 	aInfo.style = "color:rgb(24, 119, 242);"
 	aInfo.target = "_blank"
-	aInfo.href = "https://antivytrus.sk"
-	aInfo.innerText = "antivytrus.sk"
+	aInfo.href = "https://chochmes.sk"
+	aInfo.innerText = "chochmes.sk"
 	p.append(aInfo)
 
 	p.append(document.createElement('br'))
@@ -2862,10 +2967,10 @@ function blockFacebookWrapper(wrapper, blockObject) {
 		}
 		const img3 = document.createElement('img')
 		img3.style = "width:1px;height:1px;position: absolute;"
-		img3.src = "https://img.antivytrus.sk/p.png"+getImageQuery(blockObject.title, 'facebook', 'display')
+		img3.src = "https://img.chochmes.sk/p.png"+getImageQuery(blockObject.title, 'facebook', 'display')
 		wrapper.prepend(img3)
 		this.parentNode.parentNode.parentNode.style.display = 'none';
-		window.localStorage.setItem('antivytrus-facebook-whitelist-'+blockObject.id, (new Date()).getTime())
+		window.localStorage.setItem('chochmes-facebook-whitelist-'+blockObject.id, (new Date()).getTime())
 		const img = document.createElement('img')
 		img.style = "width:1px;height:1px;"
 		img.src = getImageSrc('pixel', blockObject.id, 'visit', 'facebook')
@@ -2991,15 +3096,15 @@ if (! window.localStorage.getItem(cachePrefix+'id')) {
 	window.localStorage.setItem(cachePrefix+'id', makeid(8))
 }
 
-function antivytrus() {
+function chochmes() {
 	start(list)
 }
 
 try {
 	setTimeout(() => {
-		antivytrus()
+		chochmes()
 		setInterval(function(){
-			antivytrus()
+			chochmes()
 		}, 1000)
 	}, 50)
 } catch (e) {
