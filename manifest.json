@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Chochmes.sk",
-  "version": "1.8",
+  "version": "1.9",
   "content_scripts": [
     {
       "matches": [
